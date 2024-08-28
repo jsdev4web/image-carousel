@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+
+#slideDiv {
+    padding: 50px 25px 50px 25px;
+}
+
+#imageField {
+    height: 300px;
+    width: 200px;
+}
+
+#lightDiv {
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+}
+
+.lightBtns {
+    width: 2em;
+    height: 2em;
+    border-radius: 15px;
+    border-color: white;
+}
+
+#buttonMid {
+    margin: 0px 25px 0px 25px;
+}
